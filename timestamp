@@ -20,5 +20,5 @@ def timestamp():
     ts = now.strftime("%y_%m_%d_%H_%M_%S")
     return ts
 
-ts = timestamp()
-print(ts)
+# ts = timestamp()
+# print(ts)
